@@ -34,6 +34,20 @@ Junior AI Engineer at RapidsAI. I build multi-agent systems and GraphRAG pipelin
 
 <p align="center">
   <picture>
+    <source media="(prefers-color-scheme: dark)" srcset="https://streak-stats.demolab.com?user=najiahkhalid&hide_border=true&background=00000000&ring=a68b64&fire=d9c3a0&currStreakNum=e6d9c2&sideNums=e6d9c2&currStreakLabel=d9c3a0&sideLabels=a68b64&dates=7d6a52&stroke=3a2f27" />
+    <img src="https://streak-stats.demolab.com?user=najiahkhalid&hide_border=true&background=00000000&ring=8a6a45&fire=5c4632&currStreakNum=2b221b&sideNums=2b221b&currStreakLabel=5c4632&sideLabels=8a6a45&dates=a68b64&stroke=e4d9c8" alt="Contribution streak" />
+  </picture>
+</p>
+
+<p align="center">
+  <picture>
+    <source media="(prefers-color-scheme: dark)" srcset="https://github-readme-activity-graph-two.vercel.app/graph?username=najiahkhalid&bg_color=00000000&color=a68b64&title_color=e6d9c2&line=d9c3a0&point=e6d9c2&area=true&area_color=6b5644&hide_border=true" />
+    <img width="100%" src="https://github-readme-activity-graph-two.vercel.app/graph?username=najiahkhalid&bg_color=00000000&color=8a6a45&title_color=2b221b&line=5c4632&point=2b221b&area=true&area_color=bf9f73&hide_border=true" alt="Contribution activity graph" />
+  </picture>
+</p>
+
+<p align="center">
+  <picture>
     <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/najiahkhalid/najiahkhalid/output/github-snake-dark.svg" />
     <img width="100%" src="https://raw.githubusercontent.com/najiahkhalid/najiahkhalid/output/github-snake.svg" alt="Contribution snake" />
   </picture>
