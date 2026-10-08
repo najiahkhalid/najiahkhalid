@@ -3,8 +3,9 @@
 </p>
 
 <p align="center">
-  <a href="mailto:najiahkhalid03@gmail.com">Email</a> &nbsp;·&nbsp;
-  <a href="https://www.linkedin.com/in/najiah-khalid-98a60b38b/">LinkedIn</a>
+  <a href="mailto:najiahkhalid03@gmail.com"><img src="https://img.shields.io/badge/Email-2b221b?style=for-the-badge&logo=gmail&logoColor=d9c3a0" alt="Email" /></a>
+  <a href="https://www.linkedin.com/in/najiah-khalid-98a60b38b/"><img src="https://img.shields.io/badge/LinkedIn-2b221b?style=for-the-badge&logo=linkedin&logoColor=d9c3a0" alt="LinkedIn" /></a>
+  <a href="https://github.com/najiahkhalid"><img src="https://img.shields.io/badge/GitHub-2b221b?style=for-the-badge&logo=github&logoColor=d9c3a0" alt="GitHub" /></a>
 </p>
 
 <br>
