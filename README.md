@@ -44,49 +44,47 @@
 
 ## 🛠️ Tech Stack
 
-### 💻 Languages
-<p align="left">
-  <a href="https://skillicons.dev"><img src="https://skillicons.dev/icons?i=py,ts,js,java,cpp&theme=dark" alt="languages"/></a>
-  <img height="48" src="https://img.shields.io/badge/Cypher-008CC1?style=for-the-badge&logo=neo4j&logoColor=white" alt="Cypher"/>
-</p>
+### Languages
+<picture>
+  <source media="(prefers-color-scheme: dark)" srcset="./assets/stack-languages-dark.svg" />
+  <source media="(prefers-color-scheme: light)" srcset="./assets/stack-languages-light.svg" />
+  <img width="100%" src="./assets/stack-languages-dark.svg" alt="Languages" />
+</picture>
 
-### 🤖 LLM & Generative AI
-<p align="left">
-  <img src="https://img.shields.io/badge/LangChain-1C3C3C?style=for-the-badge&logo=langchain&logoColor=white" alt="LangChain"/>
-  <img src="https://img.shields.io/badge/LangGraph-7F5AF0?style=for-the-badge&logo=langchain&logoColor=white" alt="LangGraph"/>
-  <img src="https://img.shields.io/badge/LangSmith-2CB67D?style=for-the-badge&logo=langchain&logoColor=white" alt="LangSmith"/>
-  <img src="https://img.shields.io/badge/GraphRAG-FF6B6B?style=for-the-badge&logo=graphql&logoColor=white" alt="GraphRAG"/>
-  <img src="https://img.shields.io/badge/Multi--Agent-F7B801?style=for-the-badge&logo=robotframework&logoColor=black" alt="Multi-Agent"/>
-  <img src="https://img.shields.io/badge/DeepEval-6C63FF?style=for-the-badge&logo=checkmarx&logoColor=white" alt="DeepEval"/>
-  <img src="https://img.shields.io/badge/Docling-0F62FE?style=for-the-badge&logo=readthedocs&logoColor=white" alt="Docling"/>
-</p>
+### Machine Learning
+<picture>
+  <source media="(prefers-color-scheme: dark)" srcset="./assets/stack-ml-dark.svg" />
+  <source media="(prefers-color-scheme: light)" srcset="./assets/stack-ml-light.svg" />
+  <img width="100%" src="./assets/stack-ml-dark.svg" alt="Machine Learning" />
+</picture>
 
-### 🧪 Machine Learning
-<p align="left">
-  <a href="https://skillicons.dev"><img src="https://skillicons.dev/icons?i=sklearn,tensorflow,pytorch&theme=dark" alt="ml"/></a>
-  <img height="48" src="https://img.shields.io/badge/Keras-D00000?style=for-the-badge&logo=keras&logoColor=white" alt="Keras"/>
-  <img height="48" src="https://img.shields.io/badge/Pandas-150458?style=for-the-badge&logo=pandas&logoColor=white" alt="Pandas"/>
-  <img height="48" src="https://img.shields.io/badge/NumPy-013243?style=for-the-badge&logo=numpy&logoColor=white" alt="NumPy"/>
-</p>
+### LLM & Generative AI
+<picture>
+  <source media="(prefers-color-scheme: dark)" srcset="./assets/stack-llm-dark.svg" />
+  <source media="(prefers-color-scheme: light)" srcset="./assets/stack-llm-light.svg" />
+  <img width="100%" src="./assets/stack-llm-dark.svg" alt="LLM & Generative AI" />
+</picture>
 
-### 🌐 Backend & Web
-<p align="left">
-  <a href="https://skillicons.dev"><img src="https://skillicons.dev/icons?i=fastapi,flask,nodejs,express,react,nextjs,tailwind,html,css,bootstrap&theme=dark" alt="web"/></a>
-</p>
+### Backend & Web
+<picture>
+  <source media="(prefers-color-scheme: dark)" srcset="./assets/stack-web-dark.svg" />
+  <source media="(prefers-color-scheme: light)" srcset="./assets/stack-web-light.svg" />
+  <img width="100%" src="./assets/stack-web-dark.svg" alt="Backend & Web" />
+</picture>
 
-### 🗄️ Databases
-<p align="left">
-  <a href="https://skillicons.dev"><img src="https://skillicons.dev/icons?i=postgres,mongodb&theme=dark" alt="databases"/></a>
-  <img height="48" src="https://img.shields.io/badge/Neo4j-4581C3?style=for-the-badge&logo=neo4j&logoColor=white" alt="Neo4j"/>
-  <img height="48" src="https://img.shields.io/badge/ChromaDB-FF6446?style=for-the-badge&logo=databricks&logoColor=white" alt="ChromaDB"/>
-</p>
+### Databases
+<picture>
+  <source media="(prefers-color-scheme: dark)" srcset="./assets/stack-db-dark.svg" />
+  <source media="(prefers-color-scheme: light)" srcset="./assets/stack-db-light.svg" />
+  <img width="100%" src="./assets/stack-db-dark.svg" alt="Databases" />
+</picture>
 
-### 🧰 Tools
-<p align="left">
-  <a href="https://skillicons.dev"><img src="https://skillicons.dev/icons?i=git,github,docker,vscode&theme=dark" alt="tools"/></a>
-  <img height="48" src="https://img.shields.io/badge/Cursor-000000?style=for-the-badge&logo=cursor&logoColor=white" alt="Cursor"/>
-  <img height="48" src="https://img.shields.io/badge/Claude_Code-D97757?style=for-the-badge&logo=claude&logoColor=white" alt="Claude Code"/>
-</p>
+### Developer Tools
+<picture>
+  <source media="(prefers-color-scheme: dark)" srcset="./assets/stack-tools-dark.svg" />
+  <source media="(prefers-color-scheme: light)" srcset="./assets/stack-tools-light.svg" />
+  <img width="100%" src="./assets/stack-tools-dark.svg" alt="Developer Tools" />
+</picture>
 
 ---
 
