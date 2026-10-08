@@ -100,7 +100,8 @@
 </p>
 
 <p align="center">
-  <img width="95%" src="https://github-readme-activity-graph.vercel.app/graph?username=najiahkhalid&bg_color=0f0c29&color=ffffff&line=7F5AF0&point=2CB67D&area=true&area_color=7F5AF0&hide_border=true" alt="activity graph"/>
+  <img width="95%" src="https://github-readme-activity-graph-two.vercel.app/graph?username=najiahkhalid&bg_color=0f0c29&color=ffffff&line=7F5AF0&point=2CB67D&area=true&area_color=7F5AF0&hide_border=true" alt="activity graph"/>
+
 </p>
 
 ---
